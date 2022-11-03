@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1667461075 source:/home/dedeashackeador/Documentos/Facul/ADS/PIM/PIM_IV_UNIP_EAD/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667461678 source:/home/dedeashackeador/Documentos/Facul/ADS/PIM/PIM_IV_UNIP_EAD/lib/utils.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"utils.h"
+
+1667460490 /home/dedeashackeador/Documentos/Facul/ADS/PIM/PIM_IV_UNIP_EAD/lib/utils.h
+	<stdbool.h>
+
